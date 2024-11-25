@@ -1,0 +1,19 @@
+div.relative {
+    position: absolute;
+    top: 50px;
+    right: 25px;
+    color: #cf6d0c;
+    border: 3px solid #0de40d;
+    font-size: 30px; 
+}
+div.relative {
+    position: absolute;
+    top: 50px;
+    right: 0px;
+    width: 200px;
+    height: 150px;
+    color: #cf6d0c;
+    border: 1px solid #0de40d;
+    font-size: 30px;
+  
+}
